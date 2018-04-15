@@ -1,3 +1,4 @@
 myapp.log
 users.txt
 config.ini
+__pycache__
